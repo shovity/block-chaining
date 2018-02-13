@@ -1,0 +1,9 @@
+{
+  "name": "blockChaining",
+  "version": "1.0.0",
+  "description": "Beginning to study block chain",
+  "main": "app.js",
+  "author": "Huong Nguyen (shovity@gmail.com)",
+  "license": "MIT",
+  "private": true
+}
